@@ -1,0 +1,10 @@
+*.tmp
+src/ontology/mirror
+src/ontology/mirror/*
+src/ontology/roo.obo
+src/ontology/roo.owl
+semantic.cache
+bin/
+src/ontology/seed.txt
+src/ontology/target/
+src/ontology/dosdp-tools.log

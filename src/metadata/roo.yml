@@ -1,0 +1,27 @@
+# PURL configuration for http://purl.obolibrary.org/obo/roo
+
+idspace: ROO
+base_url: /obo/roo
+
+products:
+- roo.owl: https://raw.githubusercontent.com/data2health/research-outputs-ontology/master/roo.owl
+- roo.obo: https://raw.githubusercontent.com/data2health/research-outputs-ontology/master/roo.obo
+
+term_browser: ontobee
+example_terms:
+- ROO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/data2health/research-outputs-ontology/v
+
+- prefix: /tracker/
+  replacement: https://github.com/data2health/research-outputs-ontology/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/ROO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/data2health/research-outputs-ontology/master/
