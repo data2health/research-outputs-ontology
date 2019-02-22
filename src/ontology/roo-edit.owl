@@ -42,6 +42,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000027>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000028>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000029>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000030>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000031>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 
 
@@ -264,6 +265,13 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000030> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000030> "keynote")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000030> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000031> (index)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000031> "Refers to an open-end finding guide to the literature of an academic field or discipline (example: Philosopher's Index), to works of a specific literary form (Biography Index) or published in a specific format (Reader's Guide to Periodical Literature), or to the analyzed contents of a serial publication (New York Times Index). Indexes of this kind are usually issued in monthly or quarterly paperback supplements, cumulated annually. Citations are usually listed by author and subject in separate sections, or in a single alphabetical sequence under a system of authorized headings collectively known as controlled vocabulary, developed over time by the indexing service. Indexing can be either pre-coordinate or post-coordinate. Compare with abstracting service and catalog. See also: author index, classified index, cross-index, geographic index, meta-index, name index, periodical index, subject index, and title index.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000031> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000031> "index")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 
 )
