@@ -1,4 +1,0 @@
-http://purl.obolibrary.org/obo/ARG_0000002
-http://purl.obolibrary.org/obo/ARG_0001002
-http://purl.obolibrary.org/obo/ARG_0001003
-http://purl.obolibrary.org/obo/ARG_0001005
