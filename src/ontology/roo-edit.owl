@@ -32,6 +32,16 @@ Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000017>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000018>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000019>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000020>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000021>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000022>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000023>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000024>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000025>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000026>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000027>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000028>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000029>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000030>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 
 
@@ -184,6 +194,76 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000020> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000020> "request for information")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000020> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000021> (research direction)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000021> "New direction and/or area of research developed as a result of a research study.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000021> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000021> "research direction")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000021> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000022> (wiki)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000022> "A wiki is a website which allows collaborative modification of its content and structure directly from the web browser. In a typical wiki, text is written using a simplified markup language (known as \"wiki markup\"), and often edited with the help of a rich-text editor.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000022> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000022> "wiki")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000022> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000023> (classical articles)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000023> "Works consisting of a current presentation of a previously printed seminal article marking a milestone in the history of medicine or science. It is usually accompanied by introductory remarks heralding its reprinting, often on the anniversary of its original publication or on an anniversary of the author's birth or death. It is usually reprinted in full, with complete bibliographical reference to the original appearance.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000023> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000023> "classical articles")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000023> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000024> (discussion)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000024> "An article or paper that discusses questions in an open and usually informal debate.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000024> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000024> "discussion")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000024> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000025> (errata)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000025> "A correction to a previously published piece of work.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000025> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000025> "errata")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000025> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000026> (fiction and creative prose)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000026> "Works consisting of creative writing, not presented as factual.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000026> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000026> "fiction and creative prose")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000026> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000027> (music score)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000027> "Transcript of the original and entire draft of a musical composition or an arrangement with the parts for the different instruments or voices written on staffs one above another.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000027> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000027> "music score")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000027> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000028> (non-fiction work)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000028> "Wrok including film scripts, plays, TV, and radio scripts that is based on facts, real events, and real people.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000028> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000028> "non-fiction work")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000028> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000029> (codes of practice)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000029> "A set of rules about how people in a particular profession should behave in their work.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000029> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000029> "codes of practice")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000029> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000030> (keynote)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000030> "A featured talk that establishes a main underlying theme at a conference or event.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000030> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000030> "keynote")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000030> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 
 )
