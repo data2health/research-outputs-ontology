@@ -37,9 +37,12 @@ http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62612
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62612
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323
-done
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86042
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572
 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17176
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396
