@@ -1,0 +1,11 @@
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17469
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301

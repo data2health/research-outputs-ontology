@@ -1,0 +1,10 @@
+http://purl.org/ontology/bibo/Article
+http://purl.org/ontology/bibo/Conference
+http://purl.org/ontology/bibo/Excerpt
+http://purl.org/ontology/bibo/Image
+http://purl.org/ontology/bibo/Interview
+http://purl.org/ontology/bibo/Legislation
+http://purl.org/ontology/bibo/Letter
+http://purl.org/ontology/bibo/Performance
+http://purl.org/ontology/bibo/Report
+http://purl.org/ontology/bibo/Website

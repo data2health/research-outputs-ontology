@@ -1,0 +1,16 @@
+http://vivoweb.org/ontology/core#AdvisingRelationship
+http://vivoweb.org/ontology/core#Blog
+http://vivoweb.org/ontology/core#Catalog
+http://vivoweb.org/ontology/core#Company
+http://vivoweb.org/ontology/core#Company
+http://vivoweb.org/ontology/core#ConferencePaper
+http://vivoweb.org/ontology/core#ConferencePaper
+http://vivoweb.org/ontology/core#ConferencePoster
+http://vivoweb.org/ontology/core#Dataset
+http://vivoweb.org/ontology/core#EditorialArticle
+http://vivoweb.org/ontology/core#Editorship
+http://vivoweb.org/ontology/core#Exhibit
+http://vivoweb.org/ontology/core#License
+http://vivoweb.org/ontology/core#Review
+http://vivoweb.org/ontology/core#Screenplay
+http://vivoweb.org/ontology/core#WorkingPaper
