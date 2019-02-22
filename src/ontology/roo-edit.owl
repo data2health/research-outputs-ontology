@@ -13,6 +13,11 @@ Annotation(rdfs:comment "Research Outputs Ontology")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_00000000>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000001>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000002>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000003>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000004>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000005>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000006>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 
 
@@ -30,6 +35,41 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000001> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000001> "software patch")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000002> (virtual machine)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000002> "A virtual machine (VM) is an emulation of a particular computer system.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000002> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000002> "virtual machine")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000002> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000003> (cartographic object)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000003> "Includes two- and three-dimensional maps and plans; nautical, aeronautical, and celestial charts; atlases; globes and planetaria; block diagrams, sections, and profiles; views; remote sensing images (including aerial photographs with cartographic purpose); cartograms; etc. Most cartographic materials are visual representations, but spatial data sets are a notable exception. In the bibliographic record representing a cartographic item, the characteristics of the material are described in the material specific details area (MSD).")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000003> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000003> "cartographic object")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000003> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000004> (linked data resource)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000004> "Data, information, and knowledge which are exposed, shared, and connected on the Semantic Web using URIs and RDF.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000004> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000004> "linked data resource")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000004> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000005> (continuing education materials)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000005> "Continuing education materials produced as part of a research study.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000005> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000005> "continuing education materials")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000005> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000006> (curriculum materials)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000006> "Curriculum materials are resources that enhance a particular program of study within a formal educational setting. Creation of curriculum materials is usually developed using guidelines that are issued by an educational organization or by an organization devoted to a specialized area of medicine or research. Some guidelines for curriculum materials include a listing of core competencies and skills that should be taught as well as essential areas of knowledge required to meet the standards of a particular program of study. Many curriculum guidelines refer to research studies as being significant or for use as recommended or background readings for more information.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000006> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000006> "curriculum materials")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000006> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 
 )
