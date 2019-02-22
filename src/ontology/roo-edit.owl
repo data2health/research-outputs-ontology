@@ -110,11 +110,11 @@ AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.oboli
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000008> "portfolio")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000008> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/ROO_0000009> (Logo)
+# Class: <http://purl.obolibrary.org/obo/ROO_0000009> (logo)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000009> "A symbol that is used to identify a company and that appears on its products.")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000009> <http://orcid.org/0000-0001-5208-3432>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000009> "Logo")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000009> "logo")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000009> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/ROO_0000010> (trademark)
