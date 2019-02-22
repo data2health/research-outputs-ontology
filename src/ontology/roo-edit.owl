@@ -18,6 +18,20 @@ Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000003>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000004>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000005>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000006>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000007>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000008>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000009>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000010>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000011>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000012>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000013>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000014>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000015>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000016>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000017>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000018>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000019>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000020>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 
 
@@ -70,6 +84,106 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000006> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000006> "curriculum materials")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000006> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000007> (syllabus)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000007> "An outline of the topics to be covered in a formal course of study, given in the order in which they are to be discussed in class, with any assignments and related readings also indicated. Some college and university faculty make their syllabi available online, usually on the World Wide Web, or place printed copies on reserve at the library.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000007> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000007> "syllabus")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000007> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000008> (portfolio)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000008> "A collection of work, often artistic.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000008> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000008> "portfolio")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000008> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000009> (Logo)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000009> "A symbol that is used to identify a company and that appears on its products.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000009> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000009> "Logo")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000009> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000010> (trademark)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000010> "A trademark is a word, phrase, symbol, and/or design that identifies and distinguishes the source of the goods of one party from those of others. A service mark is a word, phrase, symbol, and/or design that identifies and distinguishes the source of a service rather than goods. Think brand names, slogans, and logos. The term \"trademark\" is often used to refer to both trademarks and service marks.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000010> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000010> "trademark")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000010> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000011> (proof of concept)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000011> "An experimental scientific method or innovation demonstrates feasibility in a pilot study.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/ROO_0000011> "POC")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000011> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000011> "proof of concept")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000011> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000012> (invention)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000012> "An invention is a unique or novel device, method, composition or process.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000012> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000012> "invention")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000012> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000013> (invention disclosures)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000013> "An invention disclosure, or invention disclosure report, is a confidential document written by a scientist or engineer for use by a company's patent department, or by an external patent attorney, to determine whether patent protection should be sought for the described invention.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000013> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000013> "invention disclosures")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000013> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000014> (opinion piece)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000014> "Document forwarding one academic viewpoint and critiquing others. Can be published in a journal or posted online in academic platforms such as The Conversation (the conversation.com).")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000014> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000014> "opinion piece")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000014> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000015> (archival finding aid)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000015> "This annotated model is designed to help define the separate parts of a finding aid and the standard formatting of finding aids in archives.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000015> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000015> "archival finding aid")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000015> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000016> (artistic item)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000016> "A work of art, artwork, art piece, piece of art or art object is an aesthetic physical item or artistic creation. Apart from \"work of art\", which may be used of any work regarded as art in its widest sense, including works from literature and music, these terms apply principally to tangible, portable forms of visual art: fine art such as a painting or sculpture, piece of jewelry, folk art, work of installation art, conceptual art.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/ROO_0000016> "artistic work")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000016> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000016> "artistic item")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000016> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000017> (business case)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000017> "A business case is a structured plan outlining the feasibility of an idea. Obtaining business cases can be expensive in a piecemeal fashion. In the academic setting, business cases allow professors to build or refresh the courses they teach.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000017> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000017> "business case")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000017> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000018> (conference participation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000018> "A formal speech delivered at the beginning or on the first day of a conference, often by a prominent person in or from outside the profession, usually on a topic related to the overall theme of the conference. The keynote address is intended to stimulate thought and set the tone for subsequent discussion.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000018> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000018> "conference participation")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000018> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000019> (music program notes)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000019> "The program note is a standard element of a concert where contemporary or classical music is being performed. Program notes serve two purposes: to provide historical and background information on the piece and, if necessary, the composer, and to give the audience some sense of what to expect when listening to the work. With the presentation of contemporary pieces, it is common for the composer to write his or her own notes.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000019> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000019> "music program notes")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000019> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000020> (request for information)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000020> "Physicians, policy makers or consumers contact research study investigators for more information on research findings.")
+AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000020> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000020> "request for information")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000020> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 
 )
