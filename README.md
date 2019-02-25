@@ -3,7 +3,7 @@
 
 # research-outputs-ontology
 
-This ontology... YOUR DESCRIPTION HERE
+This ontology contains terms representing scholarly research outputs. It is currently under development.
 
 ## Versions
 
