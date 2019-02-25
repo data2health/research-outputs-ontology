@@ -6,10 +6,10 @@ http://purl.obolibrary.org/obo/ERO_0000071
 http://purl.obolibrary.org/obo/ERO_0000783
 http://purl.obolibrary.org/obo/ERO_0001054
 http://purl.obolibrary.org/obo/ERO_0001092
-http://purl.obolibrary.org/obo/ERO:0000014
-http://purl.obolibrary.org/obo/ERO:0000014
-http://purl.obolibrary.org/obo/ERO:0000014
-http://purl.obolibrary.org/obo/ERO:0000614
-http://purl.obolibrary.org/obo/ERO:0001716
-http://purl.obolibrary.org/obo/ERO:0001993
-http://purl.obolibrary.org/obo/ERO:0001993
+http://purl.obolibrary.org/obo/ERO_0000014
+http://purl.obolibrary.org/obo/ERO_0000014
+http://purl.obolibrary.org/obo/ERO_0000014
+http://purl.obolibrary.org/obo/ERO_0000614
+http://purl.obolibrary.org/obo/ERO_0001716
+http://purl.obolibrary.org/obo/ERO_0001993
+http://purl.obolibrary.org/obo/ERO_0001993

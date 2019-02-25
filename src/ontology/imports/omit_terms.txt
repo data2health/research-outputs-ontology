@@ -9,9 +9,9 @@ http://purl.obolibrary.org/obo/OMIT_0026494
 http://purl.obolibrary.org/obo/OMIT_0026950
 http://purl.obolibrary.org/obo/OMIT_0027518
 http://purl.obolibrary.org/obo/OMIT_0028039
-http://purl.obolibrary.org/obo/OMIT:0006328
-http://purl.obolibrary.org/obo/OMIT:0016923
-http://purl.obolibrary.org/obo/OMIT:0016933
-http://purl.obolibrary.org/obo/OMIT:0019559
-http://purl.obolibrary.org/obo/OMIT:0019567
-http://purl.obolibrary.org/obo/OMIT:0021518
+http://purl.obolibrary.org/obo/OMIT_0006328
+http://purl.obolibrary.org/obo/OMIT_0016923
+http://purl.obolibrary.org/obo/OMIT_0016933
+http://purl.obolibrary.org/obo/OMIT_0019559
+http://purl.obolibrary.org/obo/OMIT_0019567
+http://purl.obolibrary.org/obo/OMIT_0021518
