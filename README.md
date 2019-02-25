@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/data2health/research-outputs-ontology.svg?branch=master)](https://travis-ci.org/data2health/research-outputs-ontology)
 [![DOI](https://zenodo.org/badge/13996/data2health/research-outputs-ontology.svg)](https://zenodo.org/badge/latestdoi/13996/data2health/research-outputs-ontology)
 
-# research-outputs-ontology
+# Research Outputs Ontology
 
-This ontology contains terms representing scholarly research outputs. It is currently under development.
+This ontology contains terms representing scholarly research outputs. It is currently under development as part of the CD2H Architecting Attribution project.
 
 ## Versions
 
