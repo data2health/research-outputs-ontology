@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://vivoweb.org/ontology/core#"
-     xml:base="http://vivoweb.org/ontology/core"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/roo/imports/vivoweb_import.owl#"
+     xml:base="http://purl.obolibrary.org/obo/roo/imports/vivoweb_import.owl"
      xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"

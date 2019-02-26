@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/clo.owl#"
-     xml:base="http://purl.obolibrary.org/obo/clo.owl"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/roo/imports/clo_import.owl#"
+     xml:base="http://purl.obolibrary.org/obo/roo/imports/clo_import.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:efo="http://www.ebi.ac.uk/efo/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
