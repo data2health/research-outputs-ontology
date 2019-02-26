@@ -69,6 +69,26 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0100001> "ter
 #   Classes
 ############################
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> (Application Program Interface)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
+
+SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000104> (plan specification)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000104> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OBI_0100026> (organism)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100026> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OBI_0100051> (specimen)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100051> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://purl.obolibrary.org/obo/ROO_00000000> (roo)
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_00000000> "roo"@en)
@@ -291,6 +311,10 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000031> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000031> "index")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://xmlns.com/foaf/0.1/Organization> (organization)
+
+SubClassOf(<http://xmlns.com/foaf/0.1/Organization> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 
 )
