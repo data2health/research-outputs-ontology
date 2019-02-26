@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="Thesaurus.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="ncit_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/clo.owl" uri="clo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/clo.owl/" uri="clo_merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/ero.owl" uri="ero.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/ero.owl" uri="ero_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/obi.owl" uri="obi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/obi.owl" uri="obi.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/omit.owl" uri="OMIT.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/omit.owl" uri="omit_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/bfo_import.owl" uri="bfo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/iao_import.owl" uri="iao_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/ocre_import.owl" uri="ocre.import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.org/ontology/bibo/" uri="bibo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.org/ontology/bibo/" uri="bibo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.org/spar/fabio" uri="fabio_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://scdontology.h3abionet.org/ontology/scdo.owl" uri="scdo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://semanticscience.org/ontology/sio.owl" uri="sio_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://vivoweb.org/ontology/core" uri="vivo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://vivoweb.org/ontology/core" uri="vivoweb_import.owl"/>
+    </group>
+</catalog>
