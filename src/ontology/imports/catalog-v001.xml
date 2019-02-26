@@ -13,7 +13,8 @@
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.obolibrary.org/obo/omit.owl" uri="omit_import.owl"/>
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/bfo_import.owl" uri="bfo_import.owl"/>
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/iao_import.owl" uri="iao_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/ocre_import.owl" uri="OCRe.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/OCRe.owl" uri="OCRe.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.obolibrary.org/obo/roo/imports/OCRe.owl" uri="Ocre_import.owl"/>
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.org/ontology/bibo/" uri="bibo.owl"/>
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="duplicate:http://purl.org/ontology/bibo/" uri="bibo_import.owl"/>
         <uri id="Automatically generated entry, Timestamp=1551121798610" name="http://purl.org/spar/fabio" uri="fabio_import.owl"/>
