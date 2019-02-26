@@ -12,7 +12,7 @@
      xmlns:cellline="http://www.ebi.ac.uk/cellline/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/clo.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/clo_import.owl">
         <dc:contributor xml:lang="en">Alex Ade</dc:contributor>
         <dc:contributor>Yuqin Liu</dc:contributor>
         <dc:creator xml:lang="en">Alexander Diehl</dc:creator>

@@ -11,7 +11,7 @@
      xmlns:vann="http://purl.org/vocab/vann/"
      xmlns:skos1="http://www.w3.org/2008/05/skos#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
-    <owl:Ontology rdf:about="http://purl.org/spar/fabio">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl">
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo Ciccarese</dc:contributor>
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tim Clark</dc:contributor>
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David Shotton</dc:creator>

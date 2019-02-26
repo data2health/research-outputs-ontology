@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/obi.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/obi_import.owl">
         <protege:defaultLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</protege:defaultLanguage>
         <obo:IAO_0000589 xml:lang="en">Ontology for Biomedical Investigations</obo:IAO_0000589>
         <dc:contributor xml:lang="en">Advisors for this project come from the IFOMIS group, Saarbruecken and from the Co-ODE group in Manchester</dc:contributor>

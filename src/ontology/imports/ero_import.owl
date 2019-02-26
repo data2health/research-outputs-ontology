@@ -11,7 +11,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:statistics="http://purl.org/net/OCRe/statistics.owl#"
      xmlns:study_protocol="http://purl.org/net/OCRe/study_protocol.owl#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ero.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/ero_import.owll"/>
     
 
 

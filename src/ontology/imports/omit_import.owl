@@ -8,7 +8,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/omit.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/omit_import.owl">
         <oboInOwl:auto-generated-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBO-Edit 2.3</oboInOwl:auto-generated-by>
         <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30:06:2015 19:06</oboInOwl:date>
         <oboInOwl:default-namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIT</oboInOwl:default-namespace>

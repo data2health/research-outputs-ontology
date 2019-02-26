@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#">
-    <owl:Ontology rdf:about="http://vivoweb.org/ontology/core">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/vivoweb_import.owl">
         <rdfs:label xml:lang="en-us">VIVO Core Ontology</rdfs:label>
     </owl:Ontology>
     

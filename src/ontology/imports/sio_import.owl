@@ -14,7 +14,7 @@
      xmlns:schema="http://schema.org/"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:resource="http://semanticscience.org/resource/">
-    <owl:Ontology rdf:about="http://semanticscience.org/ontology/sio.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/sio_import.owl">
         <protege:defaultLanguage>en</protege:defaultLanguage>
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributors are those that engage in discussions in the context of SIO (in alphabetical order):
 sivaram arabandi
