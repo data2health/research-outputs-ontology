@@ -8,7 +8,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
-    <owl:Ontology rdf:about="http://purl.org/ontology/bibo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl"/>
         <terms:creator rdf:resource="http://purl.org/ontology/bibo/bdarcus"/>
         <terms:creator rdf:resource="http://purl.org/ontology/bibo/fgiasson"/>
         <terms:description xml:lang="en">The Bibliographic Ontology describes
