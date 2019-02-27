@@ -70,13 +70,29 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0100001> "ter
 #   Classes
 ############################
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> (Chemical Structure)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> (Model)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> (Document)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> (Application Program Interface)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ERO_0001092> (medical device )
+
+SubClassOf(<http://purl.obolibrary.org/obo/ERO_0001092> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/IAO_0000104> (plan specification)
 
@@ -89,6 +105,18 @@ SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100026> <http://purl.obolibrary.
 # Class: <http://purl.obolibrary.org/obo/OBI_0100051> (specimen)
 
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100051> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OMIT_0016933> (Technical Report)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OMIT_0016933> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OMIT_0026950> (Webcasts)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OMIT_0026950> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OMIT_0027262> (Electronic Supplementary Materials)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OMIT_0027262> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/ROO_00000000> (roo)
 
@@ -179,11 +207,11 @@ AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.oboli
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000012> "invention")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000012> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/ROO_0000013> (invention disclosures)
+# Class: <http://purl.obolibrary.org/obo/ROO_0000013> (invention disclosure)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000013> "An invention disclosure, or invention disclosure report, is a confidential document written by a scientist or engineer for use by a company's patent department, or by an external patent attorney, to determine whether patent protection should be sought for the described invention.")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000013> <http://orcid.org/0000-0001-5208-3432>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000013> "invention disclosures")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000013> "invention disclosure")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000013> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/ROO_0000014> (opinion piece)
@@ -312,6 +340,14 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000031> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000031> "index")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.org/ontology/bibo/Document> (Document)
+
+SubClassOf(<http://purl.org/ontology/bibo/Document> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://semanticscience.org/resource/SIO_010039> (pharmaceutical preparation)
+
+SubClassOf(<http://semanticscience.org/resource/SIO_010039> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://xmlns.com/foaf/0.1/Organization> (organization)
 
