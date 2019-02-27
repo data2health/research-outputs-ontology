@@ -2,11 +2,13 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl" uri="imports/bibo_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/bro_import.owl" uri="imports/bro_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/clo_import.owl" uri="imports/clo_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/edam_import.owl" uri="imports/edam_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/ero_import.owl" uri="imports/ero_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl" uri="imports/fabio_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/iao_import.owl" uri="imports/iao_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl" uri="imports/mesh_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl" uri="imports/ncit_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/obi_import.owl" uri="imports/obi_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/roo/imports/ocre_import.owl" uri="imports/ocre_import.owl"/>
