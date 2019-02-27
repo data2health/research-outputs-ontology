@@ -177,7 +177,7 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> <http://p
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
@@ -524,6 +524,10 @@ SubClassOf(<http://purl.org/ontology/bibo/Interview> <http://purl.obolibrary.org
 # Class: <http://purl.org/ontology/bibo/Legislation> (Legislation)
 
 SubClassOf(<http://purl.org/ontology/bibo/Legislation> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.org/ontology/bibo/Patent> (Patent)
+
+SubClassOf(<http://purl.org/ontology/bibo/Patent> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.org/ontology/bibo/Website> (Website)
 
