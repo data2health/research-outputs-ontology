@@ -152,6 +152,10 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270> <http://p
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45293> (Species)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45293> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971> (Coding)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971> <http://purl.obolibrary.org/obo/ROO_00000000>)
