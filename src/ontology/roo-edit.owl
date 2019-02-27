@@ -204,6 +204,10 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> <http://p
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://purl.bioontology.org/ontology/MESH/D023362> (Evaluation Studies)
+
+SubClassOf(<http://purl.bioontology.org/ontology/MESH/D023362> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
