@@ -54,6 +54,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000028>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000029>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000030>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000031>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000036>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0100001>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 ############################
@@ -481,6 +482,12 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/ROO_0000031> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000031> "index")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000036> (demonstration)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/ROO_0000036> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000036> "demonstration")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000036> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.org/net/OCRe/research.owl#Observational_study> (observational study)
 
