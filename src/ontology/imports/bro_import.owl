@@ -8,7 +8,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:biositemap="http://bioontology.org/ontologies/biositemap.owl#">
-    <owl:Ontology rdf:about="http://bioontology.org/ontologies/BiomedicalResources.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/bro_import.owl"/>
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.1</owl:versionInfo>
     </owl:Ontology>
     

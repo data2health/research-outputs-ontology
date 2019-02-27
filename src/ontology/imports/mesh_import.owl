@@ -8,11 +8,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:umls="http://bioportal.bioontology.org/ontologies/umls/">
-    <owl:Ontology rdf:about="http://purl.bioontology.org/ontology/MESH/">
-        <rdfs:comment>RDF Version of the UMLS ontology MSH; converted with the UMLS2RDF tool (https://github.com/ncbo/umls2rdf), developed by the NCBO project.</rdfs:comment>
-        <rdfs:label>MSH</rdfs:label>
-        <owl:versionInfo>2018aa</owl:versionInfo>
-    </owl:Ontology>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/mesh_import.owl"/>
     
 
 
