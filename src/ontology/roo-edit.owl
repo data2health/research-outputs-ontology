@@ -170,7 +170,7 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> <http://p
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
@@ -201,6 +201,10 @@ SubClassOf(<http://purl.obolibrary.org/obo/ERO_0001054> <http://purl.obolibrary.
 # Class: <http://purl.obolibrary.org/obo/ERO_0001092> (medical device )
 
 SubClassOf(<http://purl.obolibrary.org/obo/ERO_0001092> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000025> (programming language)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000025> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/IAO_0000104> (plan specification)
 
