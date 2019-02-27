@@ -211,6 +211,10 @@ SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000025> <http://purl.obolibrary.
 
 SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000104> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://purl.obolibrary.org/obo/IAO_0000641> (requirements section)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000641> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://purl.obolibrary.org/obo/OBI_0100026> (organism)
 
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100026> <http://purl.obolibrary.org/obo/ROO_00000000>)
