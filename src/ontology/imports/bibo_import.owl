@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl"
-     xml:base="http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl"
+<rdf:RDF xmlns="http://purl.org/ontology/bibo/"
+     xml:base="http://purl.org/ontology/bibo/"
      xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,7 +8,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl">
+    <owl:Ontology rdf:about="http://purl.org/ontology/bibo/">
         <terms:creator rdf:resource="http://purl.org/ontology/bibo/bdarcus"/>
         <terms:creator rdf:resource="http://purl.org/ontology/bibo/fgiasson"/>
         <terms:description xml:lang="en">The Bibliographic Ontology describes
@@ -125,6 +125,17 @@ sources.</terms:description>
         <rdfs:comment xml:lang="en">A written or printed communication addressed to a person or organization and usually transmitted by mail.</rdfs:comment>
         <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/ontology/bibo/</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Letter</rdfs:label>
+        <ns:term_status>stable</ns:term_status>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/ontology/bibo/Patent -->
+
+    <owl:Class rdf:about="http://purl.org/ontology/bibo/Patent">
+        <rdfs:comment xml:lang="en">A document describing the exclusive right granted by a government to an inventor to manufacture, use, or sell an invention for a certain number of years.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/ontology/bibo/</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Patent</rdfs:label>
         <ns:term_status>stable</ns:term_status>
     </owl:Class>
     

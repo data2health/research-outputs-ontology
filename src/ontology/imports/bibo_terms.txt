@@ -8,3 +8,4 @@ http://purl.org/ontology/bibo/Letter
 http://purl.org/ontology/bibo/Performance
 http://purl.org/ontology/bibo/Report
 http://purl.org/ontology/bibo/Website
+http://purl.org/ontology/bibo/Patent
