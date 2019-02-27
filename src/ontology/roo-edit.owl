@@ -55,6 +55,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000029>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000030>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000031>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000036>))
+Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000037>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0100001>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/creator>))
 ############################
@@ -488,6 +489,13 @@ SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/ROO_0000036> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000036> "demonstration")
 SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000036> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ROO_0000037> (mentorship)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/ROO_0000037> "Mentorship is a relationship in which a more experienced or more knowledgeable person helps to guide a less experienced or less knowledgeable person. The mentor may be older or younger, but have a certain area of expertise. It is a learning and development partnership between someone with vast experience and someone who wants to learn. Mentorship experience and relationship structure affect the \"amount of psychosocial support, career guidance, role modeling, and communication that occurs in the mentoring relationships in which the protégés and mentors engaged.")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/ROO_0000037> <http://orcid.org/0000-0001-5208-3432>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/ROO_0000037> "mentorship")
+SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000037> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.org/net/OCRe/research.owl#Observational_study> (observational study)
 
