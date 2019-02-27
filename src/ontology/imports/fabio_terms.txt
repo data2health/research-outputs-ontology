@@ -1,1 +1,2 @@
 http://purl.org/spar/fabio/ClinicalGuideline
+http://purl.org/spar/fabio/LaboratoryNotebook

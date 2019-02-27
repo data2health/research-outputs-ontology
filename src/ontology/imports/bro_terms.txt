@@ -1,0 +1,1 @@
+http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#White_Paper

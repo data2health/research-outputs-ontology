@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl#"
-     xml:base="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl"
+<rdf:RDF xmlns="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+     xml:base="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -9,7 +9,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:Thesaurus="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl">
+    <owl:Ontology rdf:about="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl">
         <protege:defaultLanguage>en</protege:defaultLanguage>
         <dc:date>January 28, 2019</dc:date>
         <rdfs:comment>NCI Thesaurus, a controlled vocabulary in support of NCI administrative and scientific activities. Produced by the Enterprise Vocabulary System (EVS), a project by the NCI Center for Biomedical Informatics and Information Technology. National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, U.S.A.</rdfs:comment>
@@ -3151,6 +3151,36 @@
         <owl:annotatedProperty rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P97"/>
         <owl:annotatedTarget>A set of protocols designed to provide communication between a software application and a computer operating system or between applications.</owl:annotatedTarget>
         <P378>NCI</P378>
+    </owl:Axiom>
+    
+
+
+    <!-- http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80148 -->
+
+    <owl:Class rdf:about="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80148">
+        <rdfs:subClassOf rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48191"/>
+        <NHC0>C80148</NHC0>
+        <P106>Conceptual Entity</P106>
+        <P108>News</P108>
+        <P207>C0282425</P207>
+        <P366>News</P366>
+        <P90>News</P90>
+        <P97>Recent information about specific and timely events.</P97>
+        <rdfs:label>News</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80148"/>
+        <owl:annotatedProperty rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P90"/>
+        <owl:annotatedTarget>News</owl:annotatedTarget>
+        <P383>PT</P383>
+        <P384>NCI</P384>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80148"/>
+        <owl:annotatedProperty rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P97"/>
+        <owl:annotatedTarget>Recent information about specific and timely events.</owl:annotatedTarget>
+        <P378>NCI</P378>
+        <P381>WordNet</P381>
     </owl:Axiom>
     
 

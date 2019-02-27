@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl#"
-     xml:base="http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl"
+<rdf:RDF xmlns="http://purl.org/spar/fabio#"
+     xml:base="http://purl.org/spar/fabio"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -11,7 +11,7 @@
      xmlns:vann="http://purl.org/vocab/vann/"
      xmlns:skos1="http://www.w3.org/2008/05/skos#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl">
+    <owl:Ontology rdf:about="http://purl.org/spar/fabio">
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo Ciccarese</dc:contributor>
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tim Clark</dc:contributor>
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David Shotton</dc:creator>
@@ -677,6 +677,16 @@ It allows to refer to a literal translation, in which the intent is to render th
     
 
 
+    <!-- http://purl.org/spar/fabio/Book -->
+
+    <owl:Class rdf:about="http://purl.org/spar/fabio/Book">
+        <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+        <rdfs:comment xml:lang="en">A non-serial document that is complete in one volume or a designated finite number of volumes.  A book published by a publisher is usually  identified by an International Standard Book Number (ISBN), and may be manifested as a physical printed publication on paper bound in a hard or soft cover, or in electronic format as an &apos;e-book&apos;.</rdfs:comment>
+        <rdfs:label xml:lang="en">book</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.org/spar/fabio/ClinicalGuideline -->
 
     <owl:Class rdf:about="http://purl.org/spar/fabio/ClinicalGuideline">
@@ -765,6 +775,16 @@ It allows to refer to a literal translation, in which the intent is to render th
     
 
 
+    <!-- http://purl.org/spar/fabio/LaboratoryNotebook -->
+
+    <owl:Class rdf:about="http://purl.org/spar/fabio/LaboratoryNotebook">
+        <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Notebook"/>
+        <rdfs:comment xml:lang="en">A notebook used by an individual research scientist as the primary record of his or her research activities. A researcher may use a laboratory notebook to document hypotheses, to describe experiments and to record data in various formats, to provide details of data analysis and interpretation, or to record the validation or invalidation of the original hypotheses. The laboratory notebook serves as an organizational tool and a memory aid.  It may also have a role in recording and protecting any intellectual property created during the research, and may be used in evidence when establishing priority of discoveries, for example in patent applications.  Electronic versions of laboratory notebooks are increasingly being employed by researchers, particularly in chemistry and the pharmaceutical industry.</rdfs:comment>
+        <rdfs:label xml:lang="en">laboratory notebook</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.org/spar/fabio/Manifestation -->
 
     <owl:Class rdf:about="http://purl.org/spar/fabio/Manifestation">
@@ -800,6 +820,16 @@ It allows to refer to a literal translation, in which the intent is to render th
 
 Examples of different manifestations of a single &apos;version of record&apos; expression of a scholarly work include an article in a print journal or the on-line version of that article as a web page.</rdfs:comment>
         <rdfs:label xml:lang="en">manifestation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/spar/fabio/Notebook -->
+
+    <owl:Class rdf:about="http://purl.org/spar/fabio/Notebook">
+        <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Book"/>
+        <rdfs:comment xml:lang="en">A book containing personal notes, typically created by writing into a physical book with blank pages.</rdfs:comment>
+        <rdfs:label xml:lang="en">notebook</rdfs:label>
     </owl:Class>
     
 
