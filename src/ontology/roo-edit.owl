@@ -10,6 +10,7 @@ Ontology(<http://purl.obolibrary.org/obo/roo.owl>
 Import(<http://purl.obolibrary.org/obo/roo/imports/bfo_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/bibo_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/clo_import.owl>)
+Import(<http://purl.obolibrary.org/obo/roo/imports/edam_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/ero_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/fabio_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/iao_import.owl>)
