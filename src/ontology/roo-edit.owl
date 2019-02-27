@@ -510,6 +510,10 @@ SubClassOf(<http://purl.org/spar/fabio/ClinicalGuideline> <http://purl.obolibrar
 
 SubClassOf(<http://semanticscience.org/resource/SIO_000107> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://semanticscience.org/resource/SIO_001194> (media)
+
+SubClassOf(<http://semanticscience.org/resource/SIO_001194> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://semanticscience.org/resource/SIO_010039> (pharmaceutical preparation)
 
 SubClassOf(<http://semanticscience.org/resource/SIO_010039> <http://purl.obolibrary.org/obo/ROO_00000000>)
