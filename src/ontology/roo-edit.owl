@@ -24,6 +24,31 @@ Import(<http://purl.obolibrary.org/obo/roo/imports/sio_import.owl>)
 Import(<http://purl.obolibrary.org/obo/roo/imports/vivoweb_import.owl>)
 Annotation(rdfs:comment "Research Outputs Ontology")
 
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19160>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48910>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49461>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999>))
+Declaration(Class(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_00000000>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000001>))
 Declaration(Class(<http://purl.obolibrary.org/obo/ROO_0000002>))
@@ -79,107 +104,107 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0100001> "ter
 
 SubClassOf(<http://edamontology.org/data_3669> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> (Chemical Structure)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756> (Data Management Plan)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730> (Terminology)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142730> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> (Model)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564> (Guideline)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17564> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735> (Policy)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17735> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886> (Meta-Analysis)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19160> (Occupation or Discipline)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19160> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19160>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19160> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> (Document)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270> (Ontology)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21270> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581> (Summary)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971> (Coding)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45971> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443> (Standard Operating Procedure)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48443> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48910> (Subject)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48910> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48910>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48910> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49461> (Dictionary)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49461> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49461>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49461> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765> (Abstract)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323> (Discussion)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71323> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529> (Collaboration)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> (Application Program Interface)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893> (Standard)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572> (Methodology)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396> (Best Practice)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94396> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089> (Annual Report)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96089> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> (Script)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96999> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> (Monograph)
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> (<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008>)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
@@ -538,6 +563,10 @@ SubClassOf(<http://purl.org/ontology/bibo/Website> <http://purl.obolibrary.org/o
 # Class: <http://purl.org/spar/fabio/ClinicalGuideline> (clinical guideline)
 
 SubClassOf(<http://purl.org/spar/fabio/ClinicalGuideline> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.org/spar/fabio/LaboratoryNotebook> (laboratory notebook)
+
+SubClassOf(<http://purl.org/spar/fabio/LaboratoryNotebook> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://semanticscience.org/resource/SIO_000107> (chapter)
 
