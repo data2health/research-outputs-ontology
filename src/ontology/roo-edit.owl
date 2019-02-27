@@ -74,6 +74,10 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0100001> "ter
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103240> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756> (Data Management Plan)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115756> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> (Model)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> <http://purl.obolibrary.org/obo/ROO_00000000>)
@@ -82,13 +86,29 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866> <http://p
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529> (Collaboration)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73529> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> (Application Program Interface)
 
 SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75301> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572> (Methodology)
+
+SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86572> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ERO_0000007> (technique)
+
+SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000007> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/ERO_0000347> (intervention)
+
+SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000347> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/ERO_0001092> (medical device )
 
@@ -105,6 +125,10 @@ SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100026> <http://purl.obolibrary.
 # Class: <http://purl.obolibrary.org/obo/OBI_0100051> (specimen)
 
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0100051> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://purl.obolibrary.org/obo/OBI_0302840> (curated information)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OBI_0302840> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://purl.obolibrary.org/obo/OMIT_0016933> (Technical Report)
 
@@ -345,9 +369,21 @@ SubClassOf(<http://purl.obolibrary.org/obo/ROO_0000031> <http://purl.obolibrary.
 
 SubClassOf(<http://purl.org/ontology/bibo/Document> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://purl.org/ontology/bibo/Interview> (Interview)
+
+SubClassOf(<http://purl.org/ontology/bibo/Interview> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://semanticscience.org/resource/SIO_010039> (pharmaceutical preparation)
 
 SubClassOf(<http://semanticscience.org/resource/SIO_010039> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://vivoweb.org/ontology/core#Editorship> (Editorship)
+
+SubClassOf(<http://vivoweb.org/ontology/core#Editorship> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
+# Class: <http://vivoweb.org/ontology/core#Exhibit> (Exhibit)
+
+SubClassOf(<http://vivoweb.org/ontology/core#Exhibit> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
 # Class: <http://xmlns.com/foaf/0.1/Organization> (organization)
 
