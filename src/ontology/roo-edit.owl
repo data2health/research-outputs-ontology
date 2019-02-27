@@ -236,6 +236,10 @@ SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000014> <http://purl.obolibrary.
 
 SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000016> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
+# Class: <http://purl.obolibrary.org/obo/ERO_0000071> (software)
+
+SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000071> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://purl.obolibrary.org/obo/ERO_0000347> (intervention)
 
 SubClassOf(<http://purl.obolibrary.org/obo/ERO_0000347> <http://purl.obolibrary.org/obo/ROO_00000000>)
