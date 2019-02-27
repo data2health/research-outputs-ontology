@@ -11,9 +11,6 @@
      xmlns:Thesaurus="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/ncit_import.owl"/>
 
-    
-
-
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
