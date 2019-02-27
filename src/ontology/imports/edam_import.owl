@@ -12,7 +12,37 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:edamontology="http://edamontology.org/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/edam_import.owl"/>
+    <owl:Ontology rdf:about="http://edamontology.org">
+        <edamontology:next_id>3866</edamontology:next_id>
+        <obo:date>31.07.2018 01:26 GMT</obo:date>
+        <obo:default-relationship-id-prefix>EDAM</obo:default-relationship-id-prefix>
+        <obo:idspace>EDAM http://edamontology.org/ &quot;EDAM relations and concept properties&quot;</obo:idspace>
+        <obo:idspace>EDAM_data http://edamontology.org/data_ &quot;EDAM types of data&quot;</obo:idspace>
+        <obo:idspace>EDAM_format http://edamontology.org/format_ &quot;EDAM data formats&quot;</obo:idspace>
+        <obo:idspace>EDAM_operation http://edamontology.org/operation_ &quot;EDAM operations&quot;</obo:idspace>
+        <obo:idspace>EDAM_topic http://edamontology.org/topic_ &quot;EDAM topics&quot;</obo:idspace>
+        <obo:remark>EDAM editors: Jon Ison, Matúš Kalaš, Hervé Ménager, and Veit Schwämmle. Contributors: see http://edamontologydocs.readthedocs.io/en/latest/contributors.html. License: see http://edamontologydocs.readthedocs.io/en/latest/license.html.</obo:remark>
+        <obo:remark>EDAM is an ontology of well established, familiar concepts that are prevalent within bioinformatics, including types of data and data identifiers, data formats, operations and topics. EDAM is a simple ontology - essentially a set of terms with synonyms and definitions - organised into an intuitive hierarchy for convenient use by curators, software developers and end-users. EDAM is suitable for large-scale semantic annotations and categorisation of diverse bioinformatics resources.  EDAM is also suitable for diverse application including for example within workbenches and workflow-management systems, software distributions, and resource registries.</obo:remark>
+        <dc:contributor>Veit Schwämmle</dc:contributor>
+        <dc:creator>Hervé Ménager</dc:creator>
+        <dc:creator>Jon Ison</dc:creator>
+        <dc:creator>Matúš Kalaš</dc:creator>
+        <dc:format>application/rdf+xml</dc:format>
+        <dc:title>Bioinformatics operations, data types, formats, identifiers and topics</dc:title>
+        <doap:Version>1.21</doap:Version>
+        <oboInOwl:hasSubset>concept_properties &quot;EDAM concept properties&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>data &quot;EDAM types of data&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>edam &quot;EDAM&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>formats &quot;EDAM data formats&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>identifiers &quot;EDAM types of identifiers&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>operations &quot;EDAM operations&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>relations &quot;EDAM relations&quot;</oboInOwl:hasSubset>
+        <oboInOwl:hasSubset>topics &quot;EDAM topics&quot;</oboInOwl:hasSubset>
+        <oboInOwl:savedBy>Jon Ison, Matúš Kalaš, Hervé Ménager</oboInOwl:savedBy>
+        <rdfs:isDefinedBy rdf:resource="http://edamontology.org/EDAM.owl"/>
+        <foaf:page rdf:resource="http://edamontology.org/page"/>
+    </owl:Ontology>
+    
 
 
     <!-- 
@@ -67,9 +97,24 @@
     
 
 
+    <!-- http://edamontology.org/data_3669 -->
+
+    <owl:Class rdf:about="http://edamontology.org/data_3669">
+        <edamontology:created_in>1.12</edamontology:created_in>
+        <oboInOwl:hasDefinition>Some material that is used for educational (training) purposes.</oboInOwl:hasDefinition>
+        <oboInOwl:hasNarrowSynonym>OER</oboInOwl:hasNarrowSynonym>
+        <oboInOwl:hasNarrowSynonym>Open educational resource</oboInOwl:hasNarrowSynonym>
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/edam#data"/>
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/edam#edam"/>
+        <rdfs:label>Training material</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://edamontology.org/data_3670 -->
 
     <owl:Class rdf:about="http://edamontology.org/data_3670">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/data_3669"/>
         <edamontology:created_in>1.12</edamontology:created_in>
         <oboInOwl:hasDefinition>A training course available for use on the Web.</oboInOwl:hasDefinition>
         <oboInOwl:hasExactSynonym>On-line course</oboInOwl:hasExactSynonym>
