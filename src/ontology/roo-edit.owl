@@ -100,6 +100,10 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0100001> "ter
 #   Classes
 ############################
 
+# Class: <http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#White_Paper> (<http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#White_Paper>)
+
+SubClassOf(<http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#White_Paper> <http://purl.obolibrary.org/obo/ROO_00000000>)
+
 # Class: <http://edamontology.org/data_3669> (Training material)
 
 SubClassOf(<http://edamontology.org/data_3669> <http://purl.obolibrary.org/obo/ROO_00000000>)
@@ -208,7 +212,7 @@ SubClassOf(<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97008> <http://p
 
 SubClassOf(<http://purl.bioontology.org/ontology/MESH/D023362> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
-# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (细胞系细胞)
+# Class: <http://purl.obolibrary.org/obo/CLO_0000001> (cell line cell)
 
 SubClassOf(<http://purl.obolibrary.org/obo/CLO_0000001> <http://purl.obolibrary.org/obo/ROO_00000000>)
 
