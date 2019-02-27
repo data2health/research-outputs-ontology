@@ -9,7 +9,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/iao.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/roo/imports/iao_import.owl">
         <protege:defaultLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</protege:defaultLanguage>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl"/>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao/2017-03-24/externalByHand.owl"/>
